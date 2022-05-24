@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohmed98
 - 👀 I’m interested in web development 🕸
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently working with JS
 
 
 <!---
